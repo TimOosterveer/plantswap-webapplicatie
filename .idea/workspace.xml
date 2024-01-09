@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a37fd372-482a-40b6-9cf3-d28e886cb798" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.svelte-kit/ambient.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.svelte-kit/ambient.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-36XSJPWN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-36XSJPWN.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-CBLXLE7Z.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-CBLXLE7Z.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-FI7FPNA6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-FI7FPNA6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-POMM4CDA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-POMM4CDA.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-XNHBATJA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-XNHBATJA.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/devalue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/devalue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/esm-env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/esm-env.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/gsap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/gsap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/gsap_dist_ScrollTrigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/gsap_dist_ScrollTrigger.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_animate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_animate.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_easing.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_internal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_internal.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_internal_disclose-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_internal_disclose-version.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_motion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_motion.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_store.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/svelte_transition.js.map" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ajVBnEqCIArhjLehVPLk2RRlVi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "home-page",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37fd372-482a-40b6-9cf3-d28e886cb798" name="Changes" comment="" />
+      <created>1704831844007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704831844007</updated>
+      <workItem from="1704831845275" duration="82000" />
+      <workItem from="1704831959654" duration="2633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
