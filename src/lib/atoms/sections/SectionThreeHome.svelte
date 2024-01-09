@@ -36,10 +36,12 @@
 
         h4 {
             font-size: 2rem;
+
         }
 
         .container-text-three {
             width: 80%;
+            margin-left: 6rem;
         }
     }
 

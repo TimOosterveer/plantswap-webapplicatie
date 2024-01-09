@@ -42,11 +42,11 @@
 		</div>
 
 		<div class="flex-wrapper-recent-stekjes">
-			<!-- {#each data.stekjes.slice(0, 4) as stekje}
+			{#each data.stekjes.slice(0, 4) as stekje}
 			<a href={stekje.slug}>
 				<img src={stekje.fotos[0].url} alt="foto van een stekje" width="100" />
 			</a>
-			{/each} -->
+			{/each}
 		</div>
 	</div>
 </main>
@@ -122,6 +122,7 @@
 			margin-left: 5%;
 			width: 90%;
 			border-radius: 40px;
+
 		}
 
 		.container-text-four {
@@ -165,7 +166,7 @@
 			margin-left: 5%;
 			width: 90%;
 			border-radius: 40px;
-			height: 100vh;
+			height: 120vh;
 		}
 
 		.container-text-four {

@@ -50,10 +50,10 @@
                 <img src={image1} alt="Slide 1" aria-label="foto-van-stekjes"/>
             </div>
             <div class="carrousel-picture">
-                <img src={image2} loading="”lazy”" alt="Slide 2" aria-label="foto-van-stekjes"/>
+                <img src={image2} loading="lazy" alt="Slide 2" aria-label="foto-van-stekjes"/>
             </div>
             <div class="carrousel-picture">
-                <img src={image3} loading="”lazy”" alt="Slide 3" aria-label="foto-van-een-stekje-die-word-gepot"/>
+                <img src={image3} loading="lazy" alt="Slide 3" aria-label="foto-van-een-stekje-die-word-gepot"/>
             </div>
         </div>
     </div>
@@ -136,15 +136,12 @@
             width: 80%;
             height: 45%;
             font-size: 4rem;
+            margin-bottom: 4rem;
         }
     }
 
     /* MEDIA QUERY DESKTOP */
     @media screen and (min-width: 64rem) {
-        main {
-
-        }
-
         .carrousel {
             height: 100vh;
             width: 100%;
@@ -165,7 +162,8 @@
             width: 60%;
             height: 100%;
             font-size: 8vw;
-            line-height: 7rem;
+            line-height: 8rem;
+            margin-bottom: 2rem;
         }
     }
 </style>

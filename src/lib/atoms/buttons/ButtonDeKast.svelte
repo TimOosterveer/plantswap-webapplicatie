@@ -26,9 +26,9 @@
         bottom: 2rem;
         right: 2rem;
         border-radius: var(--bradius);
-        padding: 0.5rem 1.1rem;
+        padding: 0.4rem 1.1rem;
         margin-bottom: 2rem;
-        font-size: 1rem;
+        font-size: 1.1rem;
         transition: 0.2s;
         cursor: pointer;
     }
