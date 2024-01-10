@@ -10,10 +10,8 @@
 
 <NavDark />
 <MobileMenu />
-
 <ImageStekje data={data} />
 <StekjeDescription data={data} />
-
 <Footer />
 
 

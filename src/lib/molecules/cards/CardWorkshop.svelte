@@ -11,16 +11,12 @@
 	{#each data.workshops as workshop}
 		<section>
 			<Background workshop={workshop}/>
-	
 			<h2>{workshop.naam}</h2>
-	
 			<ul>
 				<li><i class="fa-solid fa-location-crosshairs" style="color: #ffffff;"></i><span>{workshop.locatie}</span></li>
 				<li><i class="fa-solid fa-euro-sign" style="color: #ffffff;"></i><span>{workshop.kosten}</span></li>
 				<li><i class="fa-solid fa-calendar-days" style="color: #ffffff;"></i><span>{workshop.datum}</span></li>
 			</ul>
-			
-
 			<Button/>
 		</section>
 	{/each}
@@ -58,7 +54,7 @@
 	}
 
 	i {
-		margin-right: 1rem;
+		margin-right: 1.5rem;
 		width: 0.5%;
 	}
 

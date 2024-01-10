@@ -13,9 +13,9 @@
 	<Paragraph />
 
 	<div class="info-paragraph">
-		<img id="one" src={VectorPlant} alt="incon plant" />
-		<img id="two" src={VectorPlant} alt="incon plant" />
-		<img id="three" src={VectorPlant} alt="incon plant" />
+		<img loading="lazy" id="one" src={VectorPlant} alt="incon plant" />
+		<img loading="lazy" id="two" src={VectorPlant} alt="incon plant" />
+		<img loading="lazy" id="three" src={VectorPlant} alt="incon plant" />
 	</div>
 
 </div>

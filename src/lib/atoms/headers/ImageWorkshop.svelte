@@ -3,7 +3,7 @@
 </script>
 
 <div class="background-image">
-	<img src={workshop.foto[0].url} alt="" />
+	<img src={workshop.foto[0].url} alt="" height="100%" width="100%" />
 </div>
 
 <style>
@@ -17,8 +17,6 @@
 
 	img {
 		border-radius: var(--bradius);
-		height: 100%;
-		width: 100%;
 		object-fit: cover;
 	}
 </style>
