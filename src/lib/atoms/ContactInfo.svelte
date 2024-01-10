@@ -7,7 +7,7 @@
 	<h2>Contact</h2></div>
 	<p>
 		Vragen, suggesties of gewoon zin in een groene babbel? Neem contact op en laten we praten over
-		planten!
+		planten! Ook kun je je aanmelden voor onze te gekke workshops via dit contact formulier.
 	</p>
 </section>
 
