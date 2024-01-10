@@ -14,8 +14,7 @@
         <!-- Not Required: If javascript, use "window.location.hash" instead -->
         <input type="hidden" name="redirect" value="https://web3forms.com/success">
 
-        <!-- Optional: But Recommended: To Prevent SPAM Submission.
-             Make sure its hidden by default -->
+        <!-- Optional: But Recommended: To Prevent SPAM Submission. -->
         <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
         <label for="reason">Reden voor contact:</label>
