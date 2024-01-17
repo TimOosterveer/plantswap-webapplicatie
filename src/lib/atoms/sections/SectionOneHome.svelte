@@ -11,16 +11,16 @@
 			en eventuele verzorgingstips op een labeltje en neem ‘m mee naar de OBA Linnaeusstraat in
 			Amsterdam.
 		</p>
-        <ButtonLocation />
+		<ButtonLocation />
 	</div>
 
 </section>
 
 <style>
-    section {
-        padding: 2rem;
+	section {
+		padding: 2rem;
 
-    }
+	}
 	h2 {
 		color: var(--text-color);
 		margin-bottom: 1rem;
@@ -28,7 +28,7 @@
 
 	p {
 		color: var(--text-color);
-        margin-bottom: 1rem;
+		margin-bottom: 1rem;
 	}
 
 	.container-text-one {
@@ -49,28 +49,28 @@
 
 	/* MEDIA QUERY DESKTOP */
 	@media screen and (min-width: 64rem) {
-        section {
-            height: 80vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 0 25vw;
-        }
+		section {
+			height: 80vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			padding: 0 25vw;
+		}
 
 		h2 {
 			font-size: 5rem;
-            font-weight: 700;
-            line-height: 1em;
+			font-weight: 700;
+			line-height: 1em;
 		}
 
 		p {
 			font-size: 1.1rem;
-            margin-bottom: 1rem;
+			margin-bottom: 1rem;
 		}
 
 		.container-text-one {
 			width: 100%;
-            text-align: left;
+			text-align: left;
 		}
 	}
 </style>

@@ -3,16 +3,16 @@
 </script>
 
 <section>
-<div class="container-text-three">
-    <h4>Over PlantSwap</h4>
-    <p>De Buurtcampus-Oost heeft als doel Amsterdam-Oost duurzamer, inclusiever en gezonder te maken. PlantSwap
-        Amsterdam zorgt ervoor dat plantenliefhebbers elkaar ontmoeten in de bibliotheek. Daarnaast hebben planten in
-        huis een positief effect op je lichamelijke en geestelijke gezondheid. Veel mensen weten niet goed hoe ze voor
-        planten moeten zorgen en kopen nieuwe als ze dood gaan. In het kader van duurzaamheid, gezondheid en meer
-        sociale connectie, is PlantSwap Amsterdam een plek van sociale ontmoeting, waar mensen samen leren over
-        planten.</p>
+    <div class="container-text-three">
+        <h4>Over PlantSwap</h4>
+        <p>De Buurtcampus-Oost heeft als doel Amsterdam-Oost duurzamer, inclusiever en gezonder te maken. PlantSwap
+            Amsterdam zorgt ervoor dat plantenliefhebbers elkaar ontmoeten in de bibliotheek. Daarnaast hebben planten in
+            huis een positief effect op je lichamelijke en geestelijke gezondheid. Veel mensen weten niet goed hoe ze voor
+            planten moeten zorgen en kopen nieuwe als ze dood gaan. In het kader van duurzaamheid, gezondheid en meer
+            sociale connectie, is PlantSwap Amsterdam een plek van sociale ontmoeting, waar mensen samen leren over
+            planten.</p>
         <ButtonDeKast/>
-</div>
+    </div>
 </section>
 
 
@@ -36,10 +36,12 @@
 
         h4 {
             font-size: 2rem;
+
         }
 
         .container-text-three {
             width: 80%;
+            margin-left: 6rem;
         }
     }
 
@@ -53,22 +55,22 @@
             padding: 0 25vw;
         }
 
-		h4 {
-			font-size: 5rem;
+        h4 {
+            font-size: 5rem;
             font-weight: 700;
             line-height: 1em;
-		}
+        }
 
-		p {
-			font-size: 1.1rem;
+        p {
+            font-size: 1.1rem;
             margin-bottom: 1rem;
-		}
+        }
 
-		.container-text-three {
-			width: 100%;
+        .container-text-three {
+            width: 100%;
             text-align: left;
-		}
-	}
+        }
+    }
 
 
 </style>

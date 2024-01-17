@@ -9,10 +9,4 @@
 	p {
 		width: 60%;
 	}
-
-	@media screen and (max-width: 767px) { 
-		p {
-			width: 100%;
-		}
-	}
 </style>

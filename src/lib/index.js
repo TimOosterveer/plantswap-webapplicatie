@@ -22,4 +22,4 @@ export { default as TheMaking4 } from '$lib/molecules/kast/TheMaking4.svelte';
 
 export { default as ContactForm } from '$lib/molecules/forms/ContactForm.svelte';
 export { default as Location } from '$lib/atoms/iframe/Location.svelte';
-export { default as ContactInfo } from '$lib/atoms/sections/ContactInfo.svelte';
+export { default as ContactInfo } from '$lib/atoms/sections/ContactInforamtie.svelte';

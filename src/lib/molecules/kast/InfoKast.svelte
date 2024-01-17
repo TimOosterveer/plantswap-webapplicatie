@@ -66,12 +66,12 @@
 			height: 100%;
 		}
 
-		.info-paragraph {
-			width: 0%;
-		}
-
 		.vector img {
 			width: 30px;
+		}
+
+		.info-paragraph {
+			width: 100%;
 		}
 
 	} 
