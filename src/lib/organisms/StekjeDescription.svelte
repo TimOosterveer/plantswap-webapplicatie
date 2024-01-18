@@ -93,7 +93,7 @@
   
 	h2 {
 	  color: var(--background-color);
-	  font-size: 2.7vw;
+	  font-size: 35px;
 	}
   
 	.left p {
@@ -162,7 +162,6 @@
 	/* details:hover {
 	  background-color: #f5c275;
 	} */
-  
 	/* Stijl voor details[open] om de summary::before aan te passen */
 	details[open] summary::before {
 	  content: "-";
@@ -172,7 +171,7 @@
 	summary {
 	  background-color: #fbc980;  
 	  transition: background-color 0.3s;
-	  border-radius: 10px 0 0 0;
+	  border-radius: 10px 0 10px 0;
 	  display: flex;
 	  align-items: center;
 	  color: var(--background-color);
@@ -180,6 +179,10 @@
 	  font-weight: 600;
 	  padding: 15px;
 	  cursor: pointer;
+	}
+ 
+	details[open] summary {
+		border-radius: 10px 0 0 0;
 	}
   
 	summary:hover {
@@ -205,6 +208,10 @@
 		position: static;
 		height: fit-content;
 		width: 100%;
+	  }
+
+	  h2{
+		font-size: 30px;
 	  }
   
 	  #one {
