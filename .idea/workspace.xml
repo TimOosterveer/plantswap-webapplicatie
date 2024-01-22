@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518cebf7-94ac-4b26-91d7-0b6a63cd5390" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/molecules/forms/ContactForm.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/molecules/forms/ContactForm.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/organisms/FormSuccesfullSubmittedPage.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/organisms/FormSuccesfullSubmittedPage.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/contactFormSucces/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/contactFormSucces/+page.svelte" afterDir="false" />
-    </list>
+    <list default="true" id="518cebf7-94ac-4b26-91d7-0b6a63cd5390" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,7 @@
       <workItem from="1705658887710" duration="27000" />
       <workItem from="1705670208799" duration="1570000" />
       <workItem from="1705915300234" duration="1662000" />
-      <workItem from="1705916996533" duration="3472000" />
+      <workItem from="1705916996533" duration="3779000" />
     </task>
     <servers />
   </component>
