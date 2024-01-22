@@ -12,7 +12,7 @@
         <!-- Required: If submitting form without Javascript.
        Default web3forms output is in JSON format. -->
         <!-- Not Required: If javascript, use "window.location.hash" instead -->
-        <input type="hidden" name="redirect" value="https://web3forms.com/success">
+        <input type="hidden" name="redirect" value="https://plantswap-webapplicatie.vercel.app/contactFormSucces">
 
         <!-- Optional: But Recommended: To Prevent SPAM Submission. -->
         <input type="checkbox" name="botcheck" class="hidden" style="display: none;">

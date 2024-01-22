@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="518cebf7-94ac-4b26-91d7-0b6a63cd5390" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/organisms/FormSuccesfullSubmittedPage.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/contactFormSucces/+page.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/molecules/forms/ContactForm.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/molecules/forms/ContactForm.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/organisms/FormSuccesfullSubmittedPage.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/organisms/FormSuccesfullSubmittedPage.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/contactFormSucces/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/contactFormSucces/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "form-succesfull-submitted",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;form-succesfull-submitted&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +65,8 @@
       <workItem from="1705657233922" duration="1503000" />
       <workItem from="1705658887710" duration="27000" />
       <workItem from="1705670208799" duration="1570000" />
-      <workItem from="1705915300234" duration="1297000" />
+      <workItem from="1705915300234" duration="1662000" />
+      <workItem from="1705916996533" duration="3472000" />
     </task>
     <servers />
   </component>
