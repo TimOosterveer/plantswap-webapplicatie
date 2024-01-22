@@ -29,8 +29,9 @@
     flex-direction: row;
     flex-wrap: wrap;
     gap: 1rem;
-    justify-content: center;
+    padding: var(--padding);
   }
+
   article {
     position: relative;
     min-height: 60vh;
@@ -98,9 +99,15 @@
     }
   }
 
-  /* @media (min-width: 820px) {
+  @media (min-width: 820px) {
     article {
       width: 40%;
     }
-  } */
+  }
+
+  @media (min-width: 1280px) {
+    article {
+      width: 25%;
+    }
+  }
 </style>
