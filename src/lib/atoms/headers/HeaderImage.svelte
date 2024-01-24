@@ -47,5 +47,6 @@ h1 {
   color: white;
   font-size: 6vw;
   z-index: 2;
+  view-transition-name: h1;
 }
 </style>

@@ -96,6 +96,7 @@
         font-weight: 900;
         line-height: 1.1em;
         margin-bottom: 2rem;
+        view-transition-name: h1;
     }
 
     .carrousel img {
@@ -133,6 +134,7 @@
             height: 45%;
             font-size: 4rem;
             margin-bottom: 5rem;
+            view-transition-name: h1;
         }
     }
 
@@ -144,6 +146,7 @@
             height: 100%;
             font-size: 8vw;
             line-height: 9rem;
+            view-transition-name: h1;
         }
     }
 </style>

@@ -38,5 +38,6 @@
     right: 2rem;
     color: var(--text-color);
 	font-size: 40px;
+  view-transition-name: h1;
   }
 </style>
